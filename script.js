@@ -167,3 +167,6 @@ function clearBoard() {
     }
   }
 }
+
+// have computer be O
+// we have a counter - we can
